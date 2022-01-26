@@ -22,7 +22,9 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Participant of various hackathons. And somewhere even a winner [Hackathon Winner - Mr. Bot Team][demhack]
+- 🙋‍♂️ Participant of various hackathons. And somewhere even a winner
+- ✨ First place at the DEMHACK hackathon [Hackathon Winner - Mr. Bot Team][demhack]
+- ✨ Third place at the SDV Digital Nomad hackathon [Individual participation][sdvdigitalnomad]
 - 👉 I work for Whoosh and make the best electric scooter rental app [Whoosh][whoosh_bike]
 - 💻 The tech I'm interested in Android, Kotlin, AR/VR and ML
 - ✍ Technical writer at Medium
@@ -50,6 +52,7 @@ Open Source Contributor from <b>Russia<b> 💚
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erdemstynduev.erdemstynduev)
 
+[sdvdigitalnomad]: https://sdvdigitalnomad.com/#tracks
 [demhack]: https://demhack.ru/results
 [whoosh_bike]: https://whoosh.bike/
 [google_play_store]: https://play.google.com/store/apps/developer?id=Erdem+Tsynduev&hl=ru&gl=US
